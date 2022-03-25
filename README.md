@@ -1,3 +1,3 @@
-# human_activity_recognition
+# Shuttle Landing Control
 Trabalho de Machine Learning a nível de Graduação na FGV EMAp
-https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+https://archive.ics.uci.edu/ml/datasets/Shuttle+Landing+Control
